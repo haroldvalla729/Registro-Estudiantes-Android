@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">RegistroEstudiantes</string>
+    <string name="app_name">Registro de Estudiantes</string>
+
+    <!-- Pantalla principal -->
+    <string name="titulo">Registro de Estudiantes</string>
+    <string name="subtitulo">Ingresa los datos del estudiante</string>
+
+    <!-- Nombre -->
+    <string name="nombre_estudiante">Nombre completo:</string>
+    <string name="hint_nombre">Escribe el nombre del estudiante</string>
+
+    <!-- Carreras -->
+    <string name="seleccion_carrera">Selecciona una carrera:</string>
+    <string name="carrera_tic">Tecnologías de la Información</string>
+    <string name="carrera_administracion">Administración de Empresas</string>
+    <string name="carrera_contabilidad">Contabilidad y Auditoría</string>
+
+    <!-- Modalidad -->
+    <string name="modalidad_estudio">Modalidad de estudio:</string>
+    <string name="modalidad_virtual">Estudia en modalidad virtual</string>
+
+    <!-- Botón -->
+    <string name="boton_registrar">Registrar estudiante</string>
+
+    <!-- Pantalla de resumen -->
+    <string name="titulo_resumen">Resumen del registro</string>
+    <string name="subtitulo_resumen">Datos del estudiante registrado</string>
+    <string name="etiqueta_nombre">Nombre del estudiante:</string>
+    <string name="etiqueta_carrera">Carrera seleccionada:</string>
+    <string name="etiqueta_modalidad">Modalidad de estudio:</string>
+
 </resources>
